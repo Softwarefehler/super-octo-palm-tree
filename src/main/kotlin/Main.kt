@@ -12,5 +12,6 @@ fun main() {
     println(messages.random())
     for (i in 1..numOfSymbols) {
         print("-")
+        print("Ich bin kaputt")
     }
 }
